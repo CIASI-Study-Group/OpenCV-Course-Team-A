@@ -11,10 +11,7 @@ Carga una imagen desde un archivo hacia la memoria. Por defecto, OpenCV lee las 
 
 | `Original` | `cv2.IMREAD_COLOR` | `cv2.IMREAD_GRAYSCALE` |
 | --- | --- | --- |
-
-![Logo.jpeg](img/Logo.jpeg)
-![image.png](img/image.png)
-![image.png](img/image%201.png)
+| ![Logo.jpeg](img/Logo.jpeg) | ![image.png](img/image.png) | ![image.png](img/image%201.png)
 
 ## cv2.imshow(winname, mat)
 
